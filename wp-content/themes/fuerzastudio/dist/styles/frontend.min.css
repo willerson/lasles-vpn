@@ -1518,49 +1518,49 @@ progress{
   font-family:"Rubik";
   font-style:normal;
   font-weight:300;
-  src:url(https://willerson.github.io/lasles-vpn-challenge/wp-content/themes/fuerzastudio/dist/fonts/Rubik-Light.1a8d5f7df8.woff2) format("woff2"), url(https://willerson.github.io/lasles-vpn-challenge/wp-content/themes/fuerzastudio/dist/fonts/Rubik-Light.2d85e0e32e.woff) format("woff");
+  src:url(https://willerson.github.io/lasles-vpn/wp-content/themes/fuerzastudio/dist/fonts/Rubik-Light.1a8d5f7df8.woff2) format("woff2"), url(https://willerson.github.io/lasles-vpn/wp-content/themes/fuerzastudio/dist/fonts/Rubik-Light.2d85e0e32e.woff) format("woff");
 }
 @font-face{
   font-display:swap;
   font-family:"Rubik";
   font-style:normal;
   font-weight:400;
-  src:url(https://willerson.github.io/lasles-vpn-challenge/wp-content/themes/fuerzastudio/dist/fonts/Rubik-Regular.72d88dc5c7.woff2) format("woff2"), url(https://willerson.github.io/lasles-vpn-challenge/wp-content/themes/fuerzastudio/dist/fonts/Rubik-Regular.ba9aa58bc6.woff) format("woff");
+  src:url(https://willerson.github.io/lasles-vpn/wp-content/themes/fuerzastudio/dist/fonts/Rubik-Regular.72d88dc5c7.woff2) format("woff2"), url(https://willerson.github.io/lasles-vpn/wp-content/themes/fuerzastudio/dist/fonts/Rubik-Regular.ba9aa58bc6.woff) format("woff");
 }
 @font-face{
   font-display:swap;
   font-family:"Rubik";
   font-style:normal;
   font-weight:500;
-  src:url(https://willerson.github.io/lasles-vpn-challenge/wp-content/themes/fuerzastudio/dist/fonts/Rubik-Medium.3c46c1af34.woff2) format("woff2"), url(https://willerson.github.io/lasles-vpn-challenge/wp-content/themes/fuerzastudio/dist/fonts/Rubik-Medium.58f77191ad.woff) format("woff");
+  src:url(https://willerson.github.io/lasles-vpn/wp-content/themes/fuerzastudio/dist/fonts/Rubik-Medium.3c46c1af34.woff2) format("woff2"), url(https://willerson.github.io/lasles-vpn/wp-content/themes/fuerzastudio/dist/fonts/Rubik-Medium.58f77191ad.woff) format("woff");
 }
 @font-face{
   font-display:swap;
   font-family:"Rubik";
   font-style:normal;
   font-weight:600;
-  src:url(https://willerson.github.io/lasles-vpn-challenge/wp-content/themes/fuerzastudio/dist/fonts/Rubik-SemiBold.68d1ef577d.woff2) format("woff2"), url(https://willerson.github.io/lasles-vpn-challenge/wp-content/themes/fuerzastudio/dist/fonts/Rubik-SemiBold.ff3ad8f427.woff) format("woff");
+  src:url(https://willerson.github.io/lasles-vpn/wp-content/themes/fuerzastudio/dist/fonts/Rubik-SemiBold.68d1ef577d.woff2) format("woff2"), url(https://willerson.github.io/lasles-vpn/wp-content/themes/fuerzastudio/dist/fonts/Rubik-SemiBold.ff3ad8f427.woff) format("woff");
 }
 @font-face{
   font-display:swap;
   font-family:"Rubik";
   font-style:normal;
   font-weight:700;
-  src:url(https://willerson.github.io/lasles-vpn-challenge/wp-content/themes/fuerzastudio/dist/fonts/Rubik-Bold.2c0799042f.woff2) format("woff2"), url(https://willerson.github.io/lasles-vpn-challenge/wp-content/themes/fuerzastudio/dist/fonts/Rubik-Bold.c85dff5cf1.woff) format("woff");
+  src:url(https://willerson.github.io/lasles-vpn/wp-content/themes/fuerzastudio/dist/fonts/Rubik-Bold.2c0799042f.woff2) format("woff2"), url(https://willerson.github.io/lasles-vpn/wp-content/themes/fuerzastudio/dist/fonts/Rubik-Bold.c85dff5cf1.woff) format("woff");
 }
 @font-face{
   font-display:swap;
   font-family:"Rubik";
   font-style:normal;
   font-weight:800;
-  src:url(https://willerson.github.io/lasles-vpn-challenge/wp-content/themes/fuerzastudio/dist/fonts/Rubik-ExtraBold.dbcebd808f.woff2) format("woff2"), url(https://willerson.github.io/lasles-vpn-challenge/wp-content/themes/fuerzastudio/dist/fonts/Rubik-ExtraBold.76c8d8522a.woff) format("woff");
+  src:url(https://willerson.github.io/lasles-vpn/wp-content/themes/fuerzastudio/dist/fonts/Rubik-ExtraBold.dbcebd808f.woff2) format("woff2"), url(https://willerson.github.io/lasles-vpn/wp-content/themes/fuerzastudio/dist/fonts/Rubik-ExtraBold.76c8d8522a.woff) format("woff");
 }
 @font-face{
   font-display:swap;
   font-family:"Rubik";
   font-style:normal;
   font-weight:900;
-  src:url(https://willerson.github.io/lasles-vpn-challenge/wp-content/themes/fuerzastudio/dist/fonts/Rubik-Black.4666741558.woff2) format("woff2"), url(https://willerson.github.io/lasles-vpn-challenge/wp-content/themes/fuerzastudio/dist/fonts/Rubik-Black.031b1fe41c.woff) format("woff");
+  src:url(https://willerson.github.io/lasles-vpn/wp-content/themes/fuerzastudio/dist/fonts/Rubik-Black.4666741558.woff2) format("woff2"), url(https://willerson.github.io/lasles-vpn/wp-content/themes/fuerzastudio/dist/fonts/Rubik-Black.031b1fe41c.woff) format("woff");
 }
 html,
 body{
@@ -2328,7 +2328,7 @@ body{
           transform:translateY(-50%);
   height:24px;
   width:24px;
-  background-image:url(https://willerson.github.io/lasles-vpn-challenge/wp-content/themes/fuerzastudio/dist/images/menu-arrow.063c860226.svg);
+  background-image:url(https://willerson.github.io/lasles-vpn/wp-content/themes/fuerzastudio/dist/images/menu-arrow.063c860226.svg);
   content:"";
   display:inline-block;
   right:0;
