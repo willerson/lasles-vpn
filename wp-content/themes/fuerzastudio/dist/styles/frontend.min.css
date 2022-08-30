@@ -2670,7 +2670,7 @@ body{
 .b-hero{
   margin-top:6.25rem;
 }
-.b-hero__content h1{
+.b-hero__content h2{
   color:var(--darken, #0b132a);
   margin-bottom:1.25rem;
 }
